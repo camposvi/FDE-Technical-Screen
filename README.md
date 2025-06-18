@@ -14,7 +14,9 @@ Clone the repository and install dependencies:
 
 
 git clone https://github.com/camposvi/FDE-Technical-Screen.git
+
 cd FDE-Technical-Screen
+
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
 
 ## Usage
