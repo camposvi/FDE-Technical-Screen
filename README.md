@@ -12,7 +12,7 @@ This project classifies packages as "STANDARD", "SPECIAL", or "REJECTED" based o
 
 Clone the repository and install dependencies:
 
-```sh
+
 git clone https://github.com/camposvi/FDE-Technical-Screen.git
 cd FDE-Technical-Screen
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
@@ -38,5 +38,5 @@ tests/: Contains unit tests for the project.
 requirements.txt: Lists Python dependencies.
 README.md: Project documentation.
 License
-This project is for technical screening and educational purposes. ``````
+This project is for technical screening and educational purposes.
 
