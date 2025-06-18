@@ -24,7 +24,9 @@ from main import sort
 
 # Example usage:
 result = sort(width, height, length, mass)
+
 print(result)  # Output: "STANDARD", "SPECIAL", or "REJECTED"
+
 Replace width, height, length, and mass with your package's values.
 
 ## Running Tests
